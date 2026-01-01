@@ -1,0 +1,39 @@
+# ===== macOS =====
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# ===== IntelliJ =====
+.idea/
+*.iml
+out/
+
+# ===== Eclipse / STS =====
+.project
+.classpath
+.settings/
+
+# ===== VS Code =====
+.vscode/
+
+# ===== Maven =====
+target/
+.mvn/timing.properties
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# ===== Gradle =====
+.gradle/
+build/
+
+# ===== Logs =====
+*.log
+
+# ===== Env / Secrets =====
+.env
+application-local.yml
+application-local.properties
